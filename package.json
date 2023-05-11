@@ -1,13 +1,13 @@
 {
-  "name": "Godzilla",
+  "name": "Sonsuz",
   "version": "4.0.0",
-  "description": "Godzilla abone sistemi",
+  "description": "Sonsuz Craft  abone sistemi",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "Ly3ssia",
+  "author": "Criess",
   "license": "ISC",
   "dependencies": {
     "@discordjs/builders": "^1.0.0",

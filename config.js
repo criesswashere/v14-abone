@@ -1,5 +1,5 @@
 module.exports = {
-    token: "", 
-    prefix: ""
+    token: "bot token giriniz", 
+    prefix: "bot prefix"
 }
 
